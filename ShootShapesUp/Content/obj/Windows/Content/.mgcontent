@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Art/Articuno.png</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Art/Background.jpg</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Art/Boss Incoming.png</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Art/Bullet.png</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Art/Game Complete.png</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Art/Kyogre.png</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Art/Lugia.png</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Art/Player.png</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Art/Pointer.png</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Art/Pokeball Title.png</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Art/Pokeball.png</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Art/Seeker.png</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Art/Title.png</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Art/Title2.png</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Art/Wanderer.png</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Buttons/exit.jpg</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Buttons/start.jpg</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Font.spritefont</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Loading/Stage 2.png</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/score.spritefont</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/explosion-01.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/explosion-02.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/explosion-03.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/explosion-04.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/explosion-05.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/explosion-06.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/explosion-07.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/explosion-08.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/Music.mp3</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/Pokémon.mp3</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/Return.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/shoot-01.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/shoot-02.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/shoot-03.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/shoot-04.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/spawn-01.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/spawn-02.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/spawn-03.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/spawn-04.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/spawn-05.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/spawn-06.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/spawn-07.wav</File>
+    <File>C:/Users/Ewaen Isoken/Documents/BSc Computer Science (Digital Media &amp; Games)/Year 3/CS3005 Digital Media and Games/Coursework/Gotta Shoot'em Up!/ShootShapesUp/Content/Sound/spawn-08.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
